@@ -1,0 +1,50 @@
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.exe
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.deps.json
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.runtimeconfig.json
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.pdb
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\AbcRobotCore.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.csproj.AssemblyReference.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA_MarkupCompile.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA_MarkupCompile.lref
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.g.resources
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.AssemblyInfoInputs.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.AssemblyInfo.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.5F73705D.Up2Date
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\refint\Uebung_1.PA.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.pdb
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.genruntimeconfig.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\ref\Uebung_1.PA.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\ressources\Map1.xml
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\ressources\Map2.xml
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.exe
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\ressources\Map1.xml
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\ressources\Map2.xml
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.deps.json
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.runtimeconfig.json
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.dll
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\Uebung_1.PA.pdb
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\bin\Debug\net8.0-windows\AbcRobotCore.dll
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA_MarkupCompile.cache
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA_MarkupCompile.lref
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.g.resources
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.AssemblyInfo.cs
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.5F73705D.Up2Date
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.dll
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\refint\Uebung_1.PA.dll
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.pdb
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\Uebung_1.PA.genruntimeconfig.cache
+C:\Users\alper\source\repos\Uebung_1.PA\Uebung_1.PA\obj\Debug\net8.0-windows\ref\Uebung_1.PA.dll

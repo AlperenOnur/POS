@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\ressources\\code1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\ressources\\code1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\anweisung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\anweisung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\bedingung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\bedingung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\repeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\repeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\schleife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\schleife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|c:\\users\\alper\\source\\repos\\uebung_1.pa\\uebung_1.pa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F64ECF9-6700-4826-A1DA-70B8954EFE0C}|Uebung_1.PA\\Uebung_1.PA.csproj|solutionrelative:uebung_1.pa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Code1.txt",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\ressources\\Code1.txt",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\ressources\\Code1.txt",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\ressources\\Code1.txt",
+              "RelativeToolTip": "Uebung_1.PA\\ressources\\Code1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-19T21:47:22.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anweisung.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Anweisung.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Anweisung.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Anweisung.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Anweisung.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:06:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Uebung_1.PA\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:57:26.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\App.xaml",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\App.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\App.xaml",
+              "RelativeToolTip": "Uebung_1.PA\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-10T12:02:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bedingung.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Bedingung.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Bedingung.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Bedingung.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Bedingung.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:56:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\AssemblyInfo.cs",
+              "RelativeToolTip": "Uebung_1.PA\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T15:56:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Block.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Block.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Block.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Block.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:56:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Collect.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Collect.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Collect.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Collect.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Collect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:56:07.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Move.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Move.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Move.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:55:54.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Program.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Program.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:57:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repeat.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Repeat.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Repeat.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Repeat.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Repeat.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:06:53.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Schleife.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Schleife.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Schleife.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Schleife.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Schleife.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T11:56:39.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Token.cs",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\Token.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\Token.cs",
+              "RelativeToolTip": "Uebung_1.PA\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:44:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Uebung_1.PA\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Uebung_1.PA\\Uebung_1.PA\\MainWindow.xaml",
+              "RelativeToolTip": "Uebung_1.PA\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-09T06:57:30.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

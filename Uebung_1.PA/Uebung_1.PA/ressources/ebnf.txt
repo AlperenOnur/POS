@@ -1,0 +1,15 @@
+Program
+
+
+<Move> := MOVE <Direction>
+<Direction> := RIGHT | UP | DOWN | LEFT
+<Collect> := COLLECT
+<Bedingung> := IF <Direction> IS-A <Eigenschaft> <Block>
+<Eigenschaft> := OBSTACLE | <Letter>
+<Letter> := A | B | C | .. | Z
+<Schleife> := UNTIL <Direction> IS-A <Eigenschaft> <Block>
+<Repeat> := REPEAT <Number>
+<Number> := <Digit>{<Digit>}
+<Digit> := 0 | 1 | 2 | 3 | 4  | ... | 9
+<Block> ::= \{ <Program> \}
+<Program> ::= <Repeat> | <Schleife> | <Move> | <Collect> | <Bedingung>

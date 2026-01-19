@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\maldividiert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\maldividiert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\variabledialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\variabledialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\variabledialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\variabledialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\hoch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\hoch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|c:\\users\\alper\\source\\repos\\taschenrechner_selber\\taschenrechner_selber\\anweisung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31828F1-144B-435B-9E85-68A40F987FB3}|Taschenrechner_selber\\Taschenrechner_selber.csproj|solutionrelative:taschenrechner_selber\\anweisung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VariableDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\VariableDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\VariableDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\VariableDialog.xaml.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\VariableDialog.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:49:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hoch.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Hoch.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\Hoch.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Hoch.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\Hoch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:29:38.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:08:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VariableDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\VariableDialog.xaml",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\VariableDialog.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\VariableDialog.xaml",
+              "RelativeToolTip": "Taschenrechner_selber\\VariableDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-12T20:47:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MalDividiert.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\MalDividiert.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\MalDividiert.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\MalDividiert.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\MalDividiert.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:27:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlusMinus.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\PlusMinus.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\PlusMinus.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\PlusMinus.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\PlusMinus.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA0wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:28:54.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Anweisung.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Anweisung.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\Anweisung.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Anweisung.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\Anweisung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:20:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\MainWindow.xaml",
+              "RelativeToolTip": "Taschenrechner_selber\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-12T16:08:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Variable.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Variable.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\Variable.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Variable.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\Variable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T21:08:39.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Token.cs",
+              "RelativeDocumentMoniker": "Taschenrechner_selber\\Token.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Taschenrechner_selber\\Taschenrechner_selber\\Token.cs",
+              "RelativeToolTip": "Taschenrechner_selber\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:11:17.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
