@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|c:\\users\\alper\\source\\repos\\schiffe_versenken_selber\\schiffe_versenken_selber\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC849D84-C119-451A-B9A0-33063CBFF1E8}|Schiffe_versenken_selber\\Schiffe_versenken_selber.csproj|solutionrelative:schiffe_versenken_selber\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Network\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\Network\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Network\\NetworkManager.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\Network\\NetworkManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:01:57.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Models\\Ship.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\Models\\Ship.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Models\\Ship.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\Models\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:01:06.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Models\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\Models\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Models\\GameBoard.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\Models\\GameBoard.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:00:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Models\\Cell.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\Models\\Cell.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\Models\\Cell.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\Models\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:59:49.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAswF0BAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:39:22.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:43:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\App.xaml",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\App.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\App.xaml",
+              "RelativeToolTip": "Schiffe_versenken_selber\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T15:10:47.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\App.xaml.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:10:25.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\AssemblyInfo.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:10:15.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\MainWindow.xaml",
+              "RelativeToolTip": "Schiffe_versenken_selber\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T14:33:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Schiffe_versenken_selber\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\Schiffe_versenken_selber\\Schiffe_versenken_selber\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Schiffe_versenken_selber\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:33:51.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

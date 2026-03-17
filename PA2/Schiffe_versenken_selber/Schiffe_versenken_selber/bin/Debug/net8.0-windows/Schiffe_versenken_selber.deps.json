@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Schiffe_versenken_selber/1.0.0": {
+        "runtime": {
+          "Schiffe_versenken_selber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Schiffe_versenken_selber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
