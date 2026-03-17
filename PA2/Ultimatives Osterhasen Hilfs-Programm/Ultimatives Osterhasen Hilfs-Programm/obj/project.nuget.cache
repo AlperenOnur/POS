@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRddyogUUos=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alper\\source\\repos\\Ultimatives Osterhasen Hilfs-Programm\\Ultimatives Osterhasen Hilfs-Programm\\Ultimatives Osterhasen Hilfs-Programm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\linq2db\\5.4.1\\linq2db.5.4.1.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\linq2db.sqlite\\5.4.1\\linq2db.sqlite.5.4.1.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

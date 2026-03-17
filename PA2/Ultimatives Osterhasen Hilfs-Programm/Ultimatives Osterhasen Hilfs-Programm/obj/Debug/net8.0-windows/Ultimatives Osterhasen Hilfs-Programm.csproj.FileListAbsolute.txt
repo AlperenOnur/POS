@@ -1,0 +1,62 @@
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.exe
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\OsterStadt.db
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.deps.json
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.runtimeconfig.json
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.pdb
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\linq2db.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.csproj.AssemblyReference.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\PersonDialog.g.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm_MarkupCompile.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm_MarkupCompile.lref
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\PersonDialog.baml
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.g.resources
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.AssemblyInfoInputs.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.AssemblyInfo.cs
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimati.D42C02EC.Up2Date
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\refint\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.pdb
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.genruntimeconfig.cache
+C:\Users\Alexander Müllner\Documents\Schule\HTL\5AHIF\POS\C#\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\ref\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.exe
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\OsterStadt.db
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.deps.json
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.runtimeconfig.json
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.pdb
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\linq2db.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\PersonDialog.g.cs
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm_MarkupCompile.cache
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm_MarkupCompile.lref
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\PersonDialog.baml
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.g.resources
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.AssemblyInfo.cs
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimati.D42C02EC.Up2Date
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\refint\Ultimatives Osterhasen Hilfs-Programm.dll
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.pdb
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\Ultimatives Osterhasen Hilfs-Programm.genruntimeconfig.cache
+C:\Users\alper\source\repos\Ultimatives Osterhasen Hilfs-Programm\Ultimatives Osterhasen Hilfs-Programm\obj\Debug\net8.0-windows\ref\Ultimatives Osterhasen Hilfs-Programm.dll

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Osterhase_selber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Osterhase_selber"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu  Grid.Row="0" Grid.ColumnSpan="2">
+            <MenuItem Header="Datenbank">
+                <MenuItem Header="Personen erstellen" Click="CreatePerson_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Visualisierung">
+                <MenuItem Header="Punkte einzeichnen (Grundvisualisierung)" Click="VisualizePoints_Click"></MenuItem>
+                <MenuItem Header="Helfer berechnen und einzeichnen" Click="VisualizeHelfer_Click"></MenuItem>
+                <MenuItem Header="Weg für Helfer berechnen (danach Klick auf Punkt)" Click="VisualizeWeg_Click"></MenuItem>
+
+            </MenuItem>
+        </Menu>
+        <Canvas Grid.Row="1" Name="Map"  SizeChanged="Map_SizeChanged" Grid.ColumnSpan="2">
+            <Canvas.Background >
+                <ImageBrush  ImageSource="/ressources/Stadtplan-Wiener-Neustadt.jpg"></ImageBrush>
+            </Canvas.Background>
+        </Canvas>
+    </Grid>
+</Window>

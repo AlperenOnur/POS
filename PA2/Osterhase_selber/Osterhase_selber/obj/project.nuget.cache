@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocwwH8u5Mbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alper\\source\\repos\\Osterhase_selber\\Osterhase_selber\\Osterhase_selber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\linq2db\\6.2.0\\linq2db.6.2.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\linq2db.sqlite\\6.2.0\\linq2db.sqlite.6.2.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\linq2db.tools\\6.2.0\\linq2db.tools.6.2.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

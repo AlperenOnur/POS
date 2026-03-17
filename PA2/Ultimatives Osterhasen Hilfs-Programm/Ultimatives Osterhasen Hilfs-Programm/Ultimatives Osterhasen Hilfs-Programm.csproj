@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ultimatives_Osterhasen_Hilfs_Programm</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ressources\Stadtplan-Wiener-Neustadt.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="linq2db.SQLite" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ressources\Stadtplan-Wiener-Neustadt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="OsterStadt.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

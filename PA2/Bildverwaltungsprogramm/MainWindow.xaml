@@ -1,0 +1,88 @@
+﻿<Window x:Class="Bildverwaltungsprogramm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bildverwaltungsprogramm"
+        xmlns:commands="clr-namespace:Bildverwaltungsprogramm.CustomCommands"
+        mc:Ignorable="d"
+        Title="Bildverwaltungsprogramm" Height="450" Width="800">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" Executed="CommandBinding_Executed_New"/>
+        <CommandBinding Command="commands:CustomCommands.Add" Executed="CommandBinding_Executed_Add"/>
+        <CommandBinding Command="commands:CustomCommands.Move" Executed="CommandBinding_Executed_Move"/>
+        <CommandBinding Command="ApplicationCommands.Delete" Executed="CommandBinding_Executed_Delete"/>
+        <CommandBinding Command="commands:CustomCommands.RotatePlus90" Executed="CommandBinding_Executed_RotatePlus90"/>
+        <CommandBinding Command="commands:CustomCommands.RotateMinus90" Executed="CommandBinding_Executed_RotateMinus90"/>
+        <CommandBinding Command="commands:CustomCommands.Rotate180" Executed="CommandBinding_Executed_Rotate180"/>
+    </Window.CommandBindings>
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="Datei">
+                    <MenuItem Header="Neues Album" Command="ApplicationCommands.New">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/add_album.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Bilder hinzufügen" Command="commands:CustomCommands.Add">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/add_pic.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Bilder in Album verschieben" Command="commands:CustomCommands.Move">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/move_pic.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Bilder löschen" Command="ApplicationCommands.Delete">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/remove_pic.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Bearbeiten">
+                    <MenuItem Header="+90°" Command="commands:CustomCommands.RotatePlus90">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/rotate+90.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="-90°" Command="commands:CustomCommands.RotateMinus90">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/rotate-90.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="180°" Command="commands:CustomCommands.Rotate180">
+                        <MenuItem.Icon>
+                            <Image Source="/res/img/icons/rotate180.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+            <ComboBox DockPanel.Dock="Bottom" x:Name="ComboboxAlben" SelectionChanged="ComboboxAlben_SelectionChanged"></ComboBox>
+            <ListBox x:Name="Gallery" ItemsSource="{Binding}" SelectionMode="Multiple">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="5">
+                            <Image Source="{Binding Image}" Height="120" Stretch="Uniform"/>
+                            <TextBlock Text="{Binding FileInfo.Name}" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <Label Content="Album leer"
+           FontSize="30"
+           HorizontalAlignment="Center"
+           VerticalAlignment="Center"
+           x:Name="Labelleer">
+            </Label>
+        </DockPanel>
+    </Grid>
+</Window>

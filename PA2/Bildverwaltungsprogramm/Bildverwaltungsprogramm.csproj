@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="res\img\icons\add_album.png" />
+    <None Remove="res\img\icons\add_pic.png" />
+    <None Remove="res\img\icons\move_pic.png" />
+    <None Remove="res\img\icons\remove_pic.png" />
+    <None Remove="res\img\icons\rotate+90.png" />
+    <None Remove="res\img\icons\rotate-90.png" />
+    <None Remove="res\img\icons\rotate180.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="res\img\icons\add_album.png" />
+    <Resource Include="res\img\icons\add_pic.png" />
+    <Resource Include="res\img\icons\move_pic.png" />
+    <Resource Include="res\img\icons\remove_pic.png" />
+    <Resource Include="res\img\icons\rotate+90.png" />
+    <Resource Include="res\img\icons\rotate-90.png" />
+    <Resource Include="res\img\icons\rotate180.png" />
+  </ItemGroup>
+
+</Project>
